@@ -1,6 +1,6 @@
 # ChatGPT-writer-Assignment
 
-###As it was mentioned i have tried to make video duration under 30sec
+###As mentioned in description, I have attempted to shorten the video duration to under 30 seconds.
 
 
 
