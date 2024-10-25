@@ -1,4 +1,4 @@
-# ChatGPT-writer-Assignment
+# ChatGPT-writer-in-linkedIN Extension
 
 ###As mentioned in description, I have attempted to shorten the video duration to under 30 seconds.
 
